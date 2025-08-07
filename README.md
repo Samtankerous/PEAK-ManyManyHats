@@ -9,17 +9,17 @@ Requires [Radsi2's PassporPagination mod](https://thunderstore.io/c/peak/p/Radsi
 
 ![Image of every hat:](https://github.com/Samtankerous/PEAK-ManyManyHats/blob/main/AllHats.png)
 
-Hat set 1: Tiny tophat, emo leaf, saunahattu, hotdog, crown, animal skull, umbrella hat, egg, pompom hat, astronaut helmet, beret, fur hat (it's fake fur I promise), bee, pirate hat, goggles, skull.
-
-Hat set 2: acorn top, twig with a leaf, triceratops, goth headband, fox mask, frog, flower mask, winterberry, halo, beetle helmet, knife headband, blonde wig, devil horns, bunny, another knife headband, construction helmet.  
-
-Hat set 3: antenna, bellhop hat, bird, cute lil' bowler hat, two diving helmets (one open and one closed), fish, piranha, ghost, hairbun covers, headphones, horns, kalotti hat, mohawk, octopus, showercap.
-
+Full hat list: Astronaut helmet, bee, beetle helmet, bellhop hat, beret, bird, bunny, winterberry, crown, cute lil' bowler hat, devil horns, 
+two diving helmets (one open and one closed), egg, fish, flower mask, fox mask, frog, fur hat (it's fake fur I promise), ghost, goggles, blonde wig, 
+goth headband, hairbun covers, halo, headphones, horns, hotdog, kalotti hat, knife headband, another knife headband, emo leaf, mohawk, octopus, 
+piranha, pirate hat, pompom hat, construction helmet, saunahattu, showercap, skull, animal skull, tiny tophat, triceratops, twig with a leaf, 
+umbrella hat, acorn top, antenna.
 
 
 ## Credits and thanks
 Based on [Radsi2](https://thunderstore.io/c/peak/p/Radsi2/CustomHats/) and [MonAmiral's](https://thunderstore.io/c/peak/p/MonAmiral/MoreCustomHats/) custom hat mods.
 
 Also, many thanks to MonAmiral for the modding/setup instructions!
+
 
 
