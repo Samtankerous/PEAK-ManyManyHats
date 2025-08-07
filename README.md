@@ -7,7 +7,7 @@ Requires [Radsi2's PassporPagination mod](https://thunderstore.io/c/peak/p/Radsi
 
 ## Contents
 
-![Image of every hat:]()
+![Image of every hat:](https://github.com/Samtankerous/PEAK-ManyManyHats/blob/main/AllHats.png)
 
 Hat set 1: Tiny tophat, emo leaf, saunahattu, hotdog, crown, animal skull, umbrella hat, egg, pompom hat, astronaut helmet, beret, fur hat (it's fake fur I promise), bee, pirate hat, goggles, skull.
 
@@ -21,4 +21,5 @@ Hat set 3: antenna, bellhop hat, bird, cute lil' bowler hat, two diving helmets 
 Based on [Radsi2](https://thunderstore.io/c/peak/p/Radsi2/CustomHats/) and [MonAmiral's](https://thunderstore.io/c/peak/p/MonAmiral/MoreCustomHats/) custom hat mods.
 
 Also, many thanks to MonAmiral for the modding/setup instructions!
+
 
