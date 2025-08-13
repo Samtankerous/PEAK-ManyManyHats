@@ -1,5 +1,12 @@
 # Changelog
 ## 1.2.0
+- 10 new hats! Aviator glasses, bat wings, beanie, a big bow, Deal With It sunglasses, knight helmet, llama mask, party hat, takoyaki hat, tiara.
+- Small change to the filename to prevent a naming conflict with other mods. 
+
+## 1.1.5
+- Something went wrong with the last update, should be fixed now, sorry!
+
+## 1.1.4
 
 - 4 new hats: gnome hat, kitty hood, moth antennae, witch hat. 
 
