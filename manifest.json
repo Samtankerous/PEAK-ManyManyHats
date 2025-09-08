@@ -2,8 +2,8 @@
     "name": "ManyManyHats",
     "displayname": "Many Many Hats",
     "authorName":"Samtankerous",
-    "version_number": "1.2.0",
-    "description": "Hats for PEAK!",
+    "version_number": "1.4.0",
+    "description": "Adds a large collection of custom hats to PEAK, plus some face customisation parts.",
     "website_url": "",
-    "dependencies": ["Radsi2-PassporPagination-1.0.0","BepInEx-BepInExPack_PEAK-5.4.2403"]
+    "dependencies": ["Radsi2-PassporPagination-1.0.0","BepInEx-BepInExPack_PEAK-5.4.2403","cretapark-More_Customizations-1.1.3","JigglePhysics-Naelstrof_JigglePhysics-10.3.1"]
 }
